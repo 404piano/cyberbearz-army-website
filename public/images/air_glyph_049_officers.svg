@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="193.9 0 57.2 52.8" enable-background="new 193.9 0 57.2 52.8" xml:space="preserve">
-<polygon fill="#6a279c" points="193.9,0 215.9,0 215.9,4.4 224.7,4.4 224.7,0 246.7,0 246.7,4.4 251.1,4.4 251.1,52.8 224.7,52.8 
-	224.7,48.4 220.3,48.4 220.3,52.8 193.9,52.8 "/>
-<polygon fill="#F8FF25" points="198.3,4.4 211.5,4.4 211.5,8.8 215.9,8.8 215.9,48.4 198.3,48.4 "/>
-<polygon fill="#F8C825" points="207.1,4.4 211.5,4.4 211.5,8.8 215.9,8.8 215.9,48.4 211.5,48.4 211.5,13.2 207.1,13.2 "/>
-<polygon fill="#F8FF25" points="229.1,4.4 242.3,4.4 242.3,8.8 246.7,8.8 246.7,48.4 229.1,48.4 "/>
-<polygon fill="#F8C825" points="237.9,4.4 242.3,4.4 242.3,8.8 246.7,8.8 246.7,48.4 242.3,48.4 242.3,13.2 237.9,13.2 "/>
-<rect x="220.3" y="8.8" fill="#F8FF25" width="4.4" height="8.8"/>
-<rect x="220.3" y="13.2" fill="#F8C825" width="4.4" height="4.4"/>
-<rect x="220.3" y="35.2" fill="#F8FF25" width="4.4" height="8.8"/>
-<rect x="220.3" y="39.6" fill="#F8C825" width="4.4" height="4.4"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0" y="0" enable-background="new 193.9 0 57.2 52.8" version="1.1" viewBox="193.9 0 57.2 52.8" xml:space="preserve"><polygon fill="#6a279c" points="193.9 0 215.9 0 215.9 4.4 224.7 4.4 224.7 0 246.7 0 246.7 4.4 251.1 4.4 251.1 52.8 224.7 52.8 224.7 48.4 220.3 48.4 220.3 52.8 193.9 52.8"/><polygon fill="#F8FF25" points="198.3 4.4 211.5 4.4 211.5 8.8 215.9 8.8 215.9 48.4 198.3 48.4"/><polygon fill="#F8C825" points="207.1 4.4 211.5 4.4 211.5 8.8 215.9 8.8 215.9 48.4 211.5 48.4 211.5 13.2 207.1 13.2"/><polygon fill="#F8FF25" points="229.1 4.4 242.3 4.4 242.3 8.8 246.7 8.8 246.7 48.4 229.1 48.4"/><polygon fill="#F8C825" points="237.9 4.4 242.3 4.4 242.3 8.8 246.7 8.8 246.7 48.4 242.3 48.4 242.3 13.2 237.9 13.2"/><rect width="4.4" height="8.8" x="220.3" y="8.8" fill="#F8FF25"/><rect width="4.4" height="4.4" x="220.3" y="13.2" fill="#F8C825"/><rect width="4.4" height="8.8" x="220.3" y="35.2" fill="#F8FF25"/><rect width="4.4" height="4.4" x="220.3" y="39.6" fill="#F8C825"/></svg>
